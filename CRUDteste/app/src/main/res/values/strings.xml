@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUDteste</string>
+    <string name="textView1">Nome:</string>
+    <string name="textView2">Assunto:</string>
+    <string name="textView3">Mensagem:</string>
+    <string name="BtnEnviar">Enviar</string>
+    <string name="title_activity_view_mostra_anuncio">view_mostra_anuncio</string>
+</resources>

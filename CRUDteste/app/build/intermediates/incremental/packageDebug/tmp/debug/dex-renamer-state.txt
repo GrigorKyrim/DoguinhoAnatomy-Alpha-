@@ -1,0 +1,7 @@
+#Sat Aug 04 21:57:55 BRT 2018
+base.0=C\:\\Users\\Igor Ribeiro\\AndroidStudioProjects\\CRUDteste\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Igor Ribeiro\\AndroidStudioProjects\\CRUDteste\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
